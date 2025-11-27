@@ -1,5 +1,3 @@
----
-
 # PeerDAS Demo — Understanding Ethereum’s Next Big Scaling Upgrade (EIP-7594)
 
 Welcome to the **PeerDAS Demo**!
