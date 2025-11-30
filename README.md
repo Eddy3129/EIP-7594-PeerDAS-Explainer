@@ -1,6 +1,4 @@
----
-
-# PeerDAS Demo — Understanding Ethereum’s Next Big Scaling Upgrade (EIP-7594)
+# PeerDAS Demo — Understanding Ethereum’s Fusaka Upgrade (EIP-7594)
 
 Welcome to the **PeerDAS Demo**!
 This site explains how **EIP-7594 (Peer Data Availability Sampling)** revolutionizes Ethereum scalability by making data availability *massively* more efficient — without compromising decentralization or security.
